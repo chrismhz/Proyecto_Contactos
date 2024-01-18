@@ -1,0 +1,11 @@
+<!-- rounded_circle_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#393d42" />
+    <corners android:radius="10dp" />
+    <size
+        android:width="60dp"
+        android:height="60dp"/>
+    <stroke
+        android:width="2dp"
+        android:color="#393d42" />
+</shape>
